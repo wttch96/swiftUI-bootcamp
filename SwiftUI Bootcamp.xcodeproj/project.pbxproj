@@ -14,6 +14,7 @@
 		49817192282FDEA90006079A /* SwiftUI_BootcampTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49817191282FDEA90006079A /* SwiftUI_BootcampTests.swift */; };
 		4981719C282FDEA90006079A /* SwiftUI_BootcampUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4981719B282FDEA90006079A /* SwiftUI_BootcampUITests.swift */; };
 		4981719E282FDEA90006079A /* SwiftUI_BootcampUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4981719D282FDEA90006079A /* SwiftUI_BootcampUITestsLaunchTests.swift */; };
+		498171AB2830115A0006079A /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171AA2830115A0006079A /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4981717D282FDEA70006079A /* SwiftUI Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Bootcamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4981717D282FDEA70006079A /* Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49817180282FDEA70006079A /* SwiftUI_BootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampApp.swift; sourceTree = "<group>"; };
 		49817182282FDEA70006079A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		49817184282FDEA80006079A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		49817197282FDEA90006079A /* SwiftUI BootcampUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI BootcampUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4981719B282FDEA90006079A /* SwiftUI_BootcampUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampUITests.swift; sourceTree = "<group>"; };
 		4981719D282FDEA90006079A /* SwiftUI_BootcampUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		498171AA2830115A0006079A /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +86,7 @@
 		4981717E282FDEA70006079A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4981717D282FDEA70006079A /* SwiftUI Bootcamp.app */,
+				4981717D282FDEA70006079A /* Bootcamp.app */,
 				4981718D282FDEA90006079A /* SwiftUI BootcampTests.xctest */,
 				49817197282FDEA90006079A /* SwiftUI BootcampUITests.xctest */,
 			);
@@ -98,6 +100,7 @@
 				49817182282FDEA70006079A /* ContentView.swift */,
 				49817184282FDEA80006079A /* Assets.xcassets */,
 				49817186282FDEA80006079A /* Preview Content */,
+				498171AA2830115A0006079A /* TextBootcamp.swift */,
 			);
 			path = "SwiftUI Bootcamp";
 			sourceTree = "<group>";
@@ -144,7 +147,7 @@
 			);
 			name = "SwiftUI Bootcamp";
 			productName = "SwiftUI Bootcamp";
-			productReference = 4981717D282FDEA70006079A /* SwiftUI Bootcamp.app */;
+			productReference = 4981717D282FDEA70006079A /* Bootcamp.app */;
 			productType = "com.apple.product-type.application";
 		};
 		4981718C282FDEA90006079A /* SwiftUI BootcampTests */ = {
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49817183282FDEA70006079A /* ContentView.swift in Sources */,
+				498171AB2830115A0006079A /* TextBootcamp.swift in Sources */,
 				49817181282FDEA70006079A /* SwiftUI_BootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -423,15 +427,17 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wttch.SwiftUI-Bootcamp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Bootcamp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -452,15 +458,17 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wttch.SwiftUI-Bootcamp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Bootcamp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
