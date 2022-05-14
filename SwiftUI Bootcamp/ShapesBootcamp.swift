@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ShapeBootcamp: View {
+struct ShapesBootcamp: View {
     @State var fromValue = 1.0
     var body: some View {
         VStack {
@@ -42,6 +42,6 @@ struct ShapeBootcamp: View {
 
 struct ShapeBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        ShapeBootcamp()
+        ShapesBootcamp()
     }
 }
