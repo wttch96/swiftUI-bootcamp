@@ -20,6 +20,7 @@
 		498171B1283027860006079A /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B0283027860006079A /* GradientsBootcamp.swift */; };
 		498171B32830F9B90006079A /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B22830F9B90006079A /* IconsBootcamp.swift */; };
 		498171B5283106A10006079A /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B4283106A10006079A /* ImagesBootcamp.swift */; };
+		498171B728310A520006079A /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B628310A520006079A /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		498171B0283027860006079A /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		498171B22830F9B90006079A /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		498171B4283106A10006079A /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
+		498171B628310A520006079A /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				498171B0283027860006079A /* GradientsBootcamp.swift */,
 				498171B22830F9B90006079A /* IconsBootcamp.swift */,
 				498171B4283106A10006079A /* ImagesBootcamp.swift */,
+				498171B628310A520006079A /* FrameBootcamp.swift */,
 			);
 			path = "SwiftUI Bootcamp";
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 			files = (
 				498171B1283027860006079A /* GradientsBootcamp.swift in Sources */,
 				498171AF2830202A0006079A /* ColorBootcamp.swift in Sources */,
+				498171B728310A520006079A /* FrameBootcamp.swift in Sources */,
 				498171B5283106A10006079A /* ImagesBootcamp.swift in Sources */,
 				498171AD2830160D0006079A /* ShapesBootcamp.swift in Sources */,
 				49817183282FDEA70006079A /* ContentView.swift in Sources */,
