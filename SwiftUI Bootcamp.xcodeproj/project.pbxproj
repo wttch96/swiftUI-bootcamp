@@ -21,6 +21,7 @@
 		498171B32830F9B90006079A /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B22830F9B90006079A /* IconsBootcamp.swift */; };
 		498171B5283106A10006079A /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B4283106A10006079A /* ImagesBootcamp.swift */; };
 		498171B728310A520006079A /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B628310A520006079A /* FrameBootcamp.swift */; };
+		498171B9283114660006079A /* BackgroudOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B8283114660006079A /* BackgroudOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		498171B22830F9B90006079A /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		498171B4283106A10006079A /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
 		498171B628310A520006079A /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
+		498171B8283114660006079A /* BackgroudOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroudOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				498171B22830F9B90006079A /* IconsBootcamp.swift */,
 				498171B4283106A10006079A /* ImagesBootcamp.swift */,
 				498171B628310A520006079A /* FrameBootcamp.swift */,
+				498171B8283114660006079A /* BackgroudOverlayBootcamp.swift */,
 			);
 			path = "SwiftUI Bootcamp";
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 				498171B5283106A10006079A /* ImagesBootcamp.swift in Sources */,
 				498171AD2830160D0006079A /* ShapesBootcamp.swift in Sources */,
 				49817183282FDEA70006079A /* ContentView.swift in Sources */,
+				498171B9283114660006079A /* BackgroudOverlayBootcamp.swift in Sources */,
 				498171AB2830115A0006079A /* TextBootcamp.swift in Sources */,
 				49817181282FDEA70006079A /* SwiftUI_BootcampApp.swift in Sources */,
 				498171B32830F9B90006079A /* IconsBootcamp.swift in Sources */,
