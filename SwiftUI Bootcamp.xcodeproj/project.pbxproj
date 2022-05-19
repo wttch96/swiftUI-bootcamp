@@ -37,6 +37,7 @@
 		498171B9283114660006079A /* BackgroudOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498171B8283114660006079A /* BackgroudOverlayBootcamp.swift */; };
 		4987AB572832B435002B357E /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4987AB562832B435002B357E /* StacksBootcamp.swift */; };
 		4987AB592833D026002B357E /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4987AB582833D026002B357E /* PaddingBootcamp.swift */; };
+		49FD2DB52836968A00DD2703 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FD2DB42836968A00DD2703 /* TransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -90,6 +91,7 @@
 		498171B8283114660006079A /* BackgroudOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroudOverlayBootcamp.swift; sourceTree = "<group>"; };
 		4987AB562832B435002B357E /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		4987AB582833D026002B357E /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
+		49FD2DB42836968A00DD2703 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 				495AA19228354F2900A58F96 /* BindingBootcamp.swift */,
 				495AA196283553B100A58F96 /* AnimationBootcamp.swift */,
 				495AA198283557F600A58F96 /* AnimationTimingBootcamp.swift */,
+				49FD2DB42836968A00DD2703 /* TransitionBootcamp.swift */,
 				4987AB562832B435002B357E /* StacksBootcamp.swift */,
 				4987AB582833D026002B357E /* PaddingBootcamp.swift */,
 				49615F372833D485005981C7 /* SpacerBootcamp.swift */,
@@ -329,6 +332,7 @@
 				495AA18D2835368E00A58F96 /* StateBootcamp.swift in Sources */,
 				498171B1283027860006079A /* GradientsBootcamp.swift in Sources */,
 				495AA191283543DC00A58F96 /* ExtractSubviewBootcamp.swift in Sources */,
+				49FD2DB52836968A00DD2703 /* TransitionBootcamp.swift in Sources */,
 				498171AF2830202A0006079A /* ColorBootcamp.swift in Sources */,
 				49615F3E2833FCE4005981C7 /* ScrollViewBootcamp.swift in Sources */,
 				498171B728310A520006079A /* FrameBootcamp.swift in Sources */,
