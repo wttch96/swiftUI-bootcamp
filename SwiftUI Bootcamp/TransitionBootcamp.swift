@@ -29,8 +29,9 @@ struct TransitionBootcamp: View {
                     // .transition(.move(edge: .bottom))
                     // 不透明度
                     // .transition(.opacity)
-                    // 可以组合出现和消失使用不同的动画,不知道为啥不生效
+                    // 可以组合出现和消失使用不同的动画,第一次创建是从左侧进入，后面好像不是删除重建，所以后面就不生效了
                     .transition(.asymmetric(insertion: .move(edge: .leading), removal: .move(edge: .bottom)))
+                
             }
         }
         .edgesIgnoringSafeArea(.bottom)
