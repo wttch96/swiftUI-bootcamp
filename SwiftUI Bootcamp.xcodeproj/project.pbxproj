@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4933F0922837DABA004667B5 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933F0912837DABA004667B5 /* ListBootcamp.swift */; };
 		495AA1892834B52100A58F96 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA1882834B52100A58F96 /* SafeAreaBootcamp.swift */; };
 		495AA18B2835169400A58F96 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA18A2835169400A58F96 /* ButtonBootcamp.swift */; };
 		495AA18D2835368E00A58F96 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA18C2835368E00A58F96 /* StateBootcamp.swift */; };
@@ -61,6 +62,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4933F0912837DABA004667B5 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		495AA1882834B52100A58F96 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		495AA18A2835169400A58F96 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		495AA18C2835368E00A58F96 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 			children = (
 				49817180282FDEA70006079A /* SwiftUI_BootcampApp.swift */,
 				49817182282FDEA70006079A /* ContentView.swift */,
+				4933F0912837DABA004667B5 /* ListBootcamp.swift */,
 				49817184282FDEA80006079A /* Assets.xcassets */,
 				49817186282FDEA80006079A /* Preview Content */,
 				498171AA2830115A0006079A /* TextBootcamp.swift */,
@@ -360,6 +363,7 @@
 				498171AB2830115A0006079A /* TextBootcamp.swift in Sources */,
 				49777FD12836ACCB00668CFF /* NavigationBootcamp.swift in Sources */,
 				4987AB572832B435002B357E /* StacksBootcamp.swift in Sources */,
+				4933F0922837DABA004667B5 /* ListBootcamp.swift in Sources */,
 				49615F382833D485005981C7 /* SpacerBootcamp.swift in Sources */,
 				495AA19328354F2900A58F96 /* BindingBootcamp.swift in Sources */,
 				49615F402833FFA6005981C7 /* LazyVGridBootcamp.swift in Sources */,
