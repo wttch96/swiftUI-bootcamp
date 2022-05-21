@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4933F0922837DABA004667B5 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933F0912837DABA004667B5 /* ListBootcamp.swift */; };
+		4933F0942838BC09004667B5 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933F0932838BC09004667B5 /* AlertBootcamp.swift */; };
 		495AA1892834B52100A58F96 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA1882834B52100A58F96 /* SafeAreaBootcamp.swift */; };
 		495AA18B2835169400A58F96 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA18A2835169400A58F96 /* ButtonBootcamp.swift */; };
 		495AA18D2835368E00A58F96 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA18C2835368E00A58F96 /* StateBootcamp.swift */; };
@@ -63,6 +64,7 @@
 
 /* Begin PBXFileReference section */
 		4933F0912837DABA004667B5 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		4933F0932838BC09004667B5 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		495AA1882834B52100A58F96 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		495AA18A2835169400A58F96 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		495AA18C2835368E00A58F96 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				49817180282FDEA70006079A /* SwiftUI_BootcampApp.swift */,
 				49817182282FDEA70006079A /* ContentView.swift */,
 				4933F0912837DABA004667B5 /* ListBootcamp.swift */,
+				4933F0932838BC09004667B5 /* AlertBootcamp.swift */,
 				49817184282FDEA80006079A /* Assets.xcassets */,
 				49817186282FDEA80006079A /* Preview Content */,
 				498171AA2830115A0006079A /* TextBootcamp.swift */,
@@ -354,6 +357,7 @@
 				498171B5283106A10006079A /* ImagesBootcamp.swift in Sources */,
 				4987AB592833D026002B357E /* PaddingBootcamp.swift in Sources */,
 				49615F3A2833DDB5005981C7 /* InitializerBootcamp.swift in Sources */,
+				4933F0942838BC09004667B5 /* AlertBootcamp.swift in Sources */,
 				498171AD2830160D0006079A /* ShapesBootcamp.swift in Sources */,
 				495AA1892834B52100A58F96 /* SafeAreaBootcamp.swift in Sources */,
 				49817183282FDEA70006079A /* ContentView.swift in Sources */,
