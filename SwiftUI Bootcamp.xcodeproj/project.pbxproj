@@ -17,6 +17,7 @@
 		4933F0A028394C67004667B5 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933F09F28394C67004667B5 /* PickerBootcamp.swift */; };
 		4933F0A22839521C004667B5 /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933F0A12839521C004667B5 /* ColorPickerBootcamp.swift */; };
 		4933F0A42839539C004667B5 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933F0A32839539C004667B5 /* DatePickerBootcamp.swift */; };
+		4933F0A628395C04004667B5 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933F0A528395C04004667B5 /* StepperBootcamp.swift */; };
 		495AA1892834B52100A58F96 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA1882834B52100A58F96 /* SafeAreaBootcamp.swift */; };
 		495AA18B2835169400A58F96 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA18A2835169400A58F96 /* ButtonBootcamp.swift */; };
 		495AA18D2835368E00A58F96 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AA18C2835368E00A58F96 /* StateBootcamp.swift */; };
@@ -81,6 +82,7 @@
 		4933F09F28394C67004667B5 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 		4933F0A12839521C004667B5 /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		4933F0A32839539C004667B5 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
+		4933F0A528395C04004667B5 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		495AA1882834B52100A58F96 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		495AA18A2835169400A58F96 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		495AA18C2835368E00A58F96 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				4933F09F28394C67004667B5 /* PickerBootcamp.swift */,
 				4933F0A12839521C004667B5 /* ColorPickerBootcamp.swift */,
 				4933F0A32839539C004667B5 /* DatePickerBootcamp.swift */,
+				4933F0A528395C04004667B5 /* StepperBootcamp.swift */,
 				49817184282FDEA80006079A /* Assets.xcassets */,
 				49817186282FDEA80006079A /* Preview Content */,
 				498171AA2830115A0006079A /* TextBootcamp.swift */,
@@ -402,6 +405,7 @@
 				495AA19328354F2900A58F96 /* BindingBootcamp.swift in Sources */,
 				49615F402833FFA6005981C7 /* LazyVGridBootcamp.swift in Sources */,
 				49817181282FDEA70006079A /* SwiftUI_BootcampApp.swift in Sources */,
+				4933F0A628395C04004667B5 /* StepperBootcamp.swift in Sources */,
 				498171B32830F9B90006079A /* IconsBootcamp.swift in Sources */,
 				495AA18F28353F0700A58F96 /* ExtractedFunctionBootcamp.swift in Sources */,
 				49777FCD28369DFD00668CFF /* SheetFullScreenCoverBootcamp.swift in Sources */,
