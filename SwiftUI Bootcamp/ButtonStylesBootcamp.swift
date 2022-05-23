@@ -61,6 +61,7 @@ struct ButtonStylesBootcamp: View {
             .frame(height: 55)
             .frame(maxWidth: .infinity)
             .buttonStyle(.borderedProminent)
+            .buttonBorderShape(.roundedRectangle(radius: 8))
             .controlSize(.small)
         }
         .padding()
