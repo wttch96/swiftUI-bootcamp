@@ -9,13 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-        Text("Hello, IOS!")
-            .font(.title)
-            .fontWeight(.black)
-            .padding()
-            .foregroundColor(Color.green)
-        }
+        AppStorageBootcamp()
     }
 }
 
